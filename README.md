@@ -21,6 +21,10 @@ Dicho esto, espero que te agrade. 🙏
 
 <br>
 
+__[Ver Imágenes de Proyecto](./thumbnails.md)__
+
+<br>
+
 __Siéntanse libres de tomar este esqueleto y adaptarla según sus necesidades.__ ✌🏆
 
 <br>

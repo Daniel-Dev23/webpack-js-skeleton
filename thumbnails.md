@@ -13,3 +13,7 @@
 <div>
     <img src="https://res.cloudinary.com/daniel-dev23/image/upload/v1664337939/Webpack%20JS%20Skeleton/1_ejkfag.png" alt="Vista 2" width="400px">
 </div>
+
+<br>
+
+__[Detalles de Proyecto](./thumbnails.md)__
