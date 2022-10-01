@@ -18,4 +18,4 @@ Estas imágenes, son el resultado que se da después de generar el build de desa
 
 <br>
 
-__[Detalles de Proyecto](./thumbnails.md)__
+__[Detalles de Proyecto](./README.md)__
